@@ -2,10 +2,6 @@
 using namespace std;
 
 int main() {
-// Fast I/O: Wajib untuk CP agar tidak kena TLE
-    ios_base::sync_with_stdio(false);
-    cin.tie(NULL);
-
     long long n;
     if (!(cin >> n)) return 0;
 
